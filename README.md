@@ -1,1 +1,6 @@
 # Internal-Communication-Analysis-at-PT-Bank-Rakyat-Indonesia-Persero-Tbk
+This project focuses on an in-depth analysis of internal communication at Bank Rakyat Indonesia (BRI), one of Indonesia’s largest state-owned banks. The research begins by identifying recurring communication-related problems within the organization, which are gathered through secondary data analysis of employee feedback on platforms such as JobStreet. These insights reveal patterns and pain points in how information flows within the company.
+
+Based on the findings, the project proceeds to design and develop a prototype solution aimed at improving BRI’s internal communication system. This solution is tailored to address the specific issues identified in the earlier phase, such as delays in information delivery, lack of clarity in message transmission, and limited feedback channels between departments.
+
+To ensure the relevance and accuracy of the proposed solution, qualitative validation is conducted through interviews with BRI employees. These interviews serve as a confirmation step to match real internal experiences with the data-based assumptions and also provide additional input for refining the program. The ultimate goal of this project is to propose an implementable, data-driven strategy to enhance internal communication effectiveness at Bank Rakyat Indonesia.
